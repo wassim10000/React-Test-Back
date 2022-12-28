@@ -1,0 +1,101 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "FlexiFit Hoodie",
+        "price": 59.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "men"
+      },
+      {
+        "id": 2,
+        "productName": "Tactical T-Shirt",
+        "price": 39.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "men"
+      },
+      {
+        "id": 3,
+        "productName": "Urban Joggers",
+        "price": 69.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "men"
+      },
+      {
+        "id": 4,
+        "productName": "Slim-Fit Chinos",
+        "price": 49.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "men"
+      },
+      {
+        "id": 5,
+        "productName": "Denim Jacket",
+        "price": 79.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "men"
+      },
+      {
+        "id": 6,
+        "productName": "Flower Power Dress",
+        "price": 59.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "women"
+      },
+      {
+        "id": 7,
+        "productName": "Glamorous Gown",
+        "price": 99.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "women"
+      },
+      {
+        "id": 8,
+        "productName": "Lace Cami Top",
+        "price": 39.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "women"
+      },
+      {
+        "id": 9,
+        "productName": "Ruffle Skirt",
+        "price": 49.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "women"
+      },
+      {
+        "id": 10,
+        "productName": "Satin Pajamas",
+        "price": 59.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "women"
+      },
+      {
+        "id": 11,
+        "productName": "Vintage Vest",
+        "price": 69.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "men"
+      },
+      {
+        "id": 12,
+        "productName": "Biker Jacket",
+        "price": 79.99,
+        "description": "",
+        "imageUrl": "",
+        "gender": "men"
+      }
+    ]
+  }
+  
